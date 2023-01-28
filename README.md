@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=iamsh2580%20Gitgub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=SeungHyeon%20Gitgub&fontSize=90" />
 </br>
 
 
@@ -28,6 +28,7 @@ I want to be a great back-end developer <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+ <img src="https://img.shields.io/badge/react-F7DF1E?style=flat&logo=react&logoColor=white" />
 </p>
 <br>
 <p align="center">
